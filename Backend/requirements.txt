@@ -2,4 +2,5 @@ Flask
 flask-cors
 google-genai
 python-dotenv
-requests
+requestsgunicorn
+gunicorn
